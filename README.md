@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 **qbenben's blog**: [qbenben.com](https://www.qbenben.com)
-But there is no time to organize
+But there is no time to update
 
 
 
