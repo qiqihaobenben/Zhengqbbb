@@ -12,10 +12,10 @@ But there is no time to organize
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact" height="170">
 </p>
 
-- ✨ I'm focusing on the development that I like.
-- 🏢 I'm a member of secret team.
-- 🌱 I's currently focusing on the following tasks.
-  - 🏗 Developing A shell tool.
-  - 🏗 Developing A shell tool's doc.
-- ⚡ Fun fact: Everything is just begin. 
-- 😎 Toss. Play. Delve into.
+- ✨  I'm focusing on the development that I like.
+- 🏢  I'm a member of secret team.
+- 🌱  I's currently focusing on the following tasks.
+  - 🏗  Developing A shell tool.
+  - 🏗  Developing A shell tool's doc.
+- ⚡  Fun fact: Everything is just begin. 
+- 😎  Toss. Play. Delve into.
