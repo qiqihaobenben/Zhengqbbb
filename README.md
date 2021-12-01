@@ -8,8 +8,8 @@ But there is no time to update
 
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhengqbbb&v=1" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&v=1" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zhengqbbb&v=2" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&v=2" height="170">
 </p>
 
 - ✨  I'm focusing on the development that I like.
