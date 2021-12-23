@@ -8,7 +8,7 @@ But there is no time to update
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=slateorange&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&theme=slateorange&count_private=true&hide=html" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&theme=slateorange&count_private=true&hide=html&exclude_repo=WorkCode,zhengqbbb.github.io,dev-template,Blog,blogBackup" height="170">
 </p>
 
 - ✨  I'm focusing on the development that I like.
