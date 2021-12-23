@@ -6,10 +6,9 @@
 But there is no time to update
 
 
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhengqbbb&v=2" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&v=2" height="170">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=vue-dark&count_private=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&theme=vue-dark&count_private=true&hide=html" height="170">
 </p>
 
 - ✨  I'm focusing on the development that I like.
@@ -30,6 +29,8 @@ Talking to the Moon
 
 
 ---
+
+  
 🌟
 ```
  __  __                                                         _   _     _             
