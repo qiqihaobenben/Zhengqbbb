@@ -1,4 +1,4 @@
-![qbenben-logo](https://user-images.githubusercontent.com/40693636/147798617-fbb2b431-52b5-4196-a89f-1b0d75abc30c.png)
+<img alt="qbenben-logo" width="100" src="https://user-images.githubusercontent.com/40693636/147798845-84d79751-28d3-4b88-bc4a-a24d33f914ec.png"/>
 
 ### Hi there 👋
 
