@@ -14,7 +14,6 @@ But there is no time to update
 <img
   src="https://api.githubtrends.io/user/svg/Zhengqbbb/langs?time_range=one_year&theme=dark"
   alt="githubtrends"
-  style="width:22rem"
   align="right"
 />
 
