@@ -22,11 +22,6 @@ But there is no time to update
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&theme=slateorange&count_private=true&hide=html&exclude_repo=WorkCode,zhengqbbb.github.io,dev-template,Blog,blogBackup&langs_count=6&hide_border=true&v=2" height="170">
 </p>
 
-<img
-  src="https://api.githubtrends.io/user/svg/Zhengqbbb/langs?time_range=one_year&theme=dark"
-  alt="githubtrends"
-  align="right"
-/>
 
 - ✨  I'm focusing on the development that I like.
 - 🏢  I'm a member of secret team.
