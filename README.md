@@ -10,7 +10,7 @@ But there is no time to update
 [![github](https://img.shields.io/badge/Github-Zhengqbbb-lightgrey?style=social&logo=github)](https://github.com/Zhengqbbb/)
 [![npm](https://img.shields.io/badge/NPM-zhengqbbb-lightgrey?style=social&logo=npm)](https://www.npmjs.com/~zhengqbbb)
 [![instagram](https://img.shields.io/badge/Instagram-qbqiubin-lightgrey?style=social&logo=instagram)](https://www.instagram.com/qbqiubin/)
-[![discord](https://img.shields.io/badge/Discord-qbenben-lightgrey?style=social&logo=discord)](https://discordapp.com/users/902369403818094593)
+[![twitter](https://img.shields.io/badge/Twitter-zhengqbbb-lightgrey?style=social&logo=twitter)](https://twitter.com/zhengqbbb)
 [![email](https://img.shields.io/badge/Email-zhengqbbb-lightgrey?style=social&logo=gmail)](mailto:zhengqbbb@gamil.com)
 
 **Contribute**
