@@ -15,7 +15,7 @@ But there is no time to update
 
 **Contribute**
 
-![X-CMD](https://img.shields.io/badge/Shell%20Tool-X--CMD-lightgrey?style=social&logo=windowsterminal)
+[![X-CMD](https://img.shields.io/badge/Shell%20Tool-X--CMD-lightgrey?style=social&logo=windowsterminal)](https://x-cmd.com/)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=slateorange&count_private=true&hide_border=true" height="170">
