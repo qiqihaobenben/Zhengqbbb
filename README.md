@@ -13,10 +13,6 @@ But there is no time to update.
 [![twitter](https://img.shields.io/badge/Twitter-zhengqbbb-lightgrey?style=social&logo=twitter)](https://twitter.com/zhengqbbb)
 [![email](https://img.shields.io/badge/Email-zhengqbbb-lightgrey?style=social&logo=gmail)](mailto:zhengqbbb@gamil.com)
 
-**Contribute**
-
-[![X-CMD](https://img.shields.io/badge/Shell%20Tool-X--CMD-lightgrey?style=social&logo=windowsterminal)](https://x-cmd.com/)
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=slateorange&count_private=true&hide_border=true" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhengqbbb&layout=compact&theme=slateorange&count_private=true&hide=html&exclude_repo=WorkCode,zhengqbbb.github.io,dev-template,Blog,blogBackup&langs_count=6&hide_border=true&v=2" height="170">
